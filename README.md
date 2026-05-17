@@ -54,9 +54,12 @@
 ## 文件结构
 
 ```
-├── README.md        # 本文件
-├── prompt.md        # 完整角色 Prompt
-└── Error.md         # 报错时固定回复
+├── README.md           # 本文件
+├── prompt.md           # 完整角色 Prompt
+├── TTS.md              # 语音合成 Prompt
+├── OtoChan.png         # 角色头像
+├── t2i_template.html   # 文字转图片模板
+└── Error.md            # 报错时固定回复
 ```
 
 ## 注意事项
